@@ -2,7 +2,7 @@
 
 # 弹幕派
 
-全新弹幕派，就在[www.danmakupie.com](www.danmakupie.com)！
+全新弹幕派，就在[www.danmakupie.com](http://www.danmakupie.com)！
 
 * 全新客户端架构，更加流畅，动画效果更加炫酷
 
@@ -12,4 +12,4 @@
 
 * 对原有功能进行升级，同时新增了**霸屏**、**敏感词过滤**等功能
 
-快到我们的官方网站([www.danmakupie.com](www.danmakupie.com))体验一下全新的3.0版本吧！
+快到我们的官方网站([www.danmakupie.com](http://www.danmakupie.com))体验一下全新的3.0版本吧！
