@@ -1,6 +1,6 @@
-# 弹幕派
-
 ![弹幕派Logo](http://www.danmakupie.com/static/common/images/logo.gray.png)
+
+# 弹幕派
 
 全新弹幕派，就在[www.danmakupie.com](www.danmakupie.com)！
 
@@ -12,4 +12,4 @@
 
 * 对原有功能进行升级，同时新增了**霸屏**、**敏感词过滤**等功能
 
-快到我们的官方网站[www.danmakupie.com](www.danmakupie.com)体验一下全新的3.0版本吧！
+快到我们的官方网站([www.danmakupie.com](www.danmakupie.com))体验一下全新的3.0版本吧！
